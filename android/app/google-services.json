@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805224364743",
+    "project_id": "mega-ride",
+    "storage_bucket": "mega-ride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805224364743:android:14707821451ecf1d06dce2",
+        "android_client_info": {
+          "package_name": "com.megaxtudio.megaride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805224364743-o7qlj9lm208l75ihfclf5l1q1brd8oeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw0XgazWndwKlNa89j2q1TCMKEhkxdvYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805224364743-o7qlj9lm208l75ihfclf5l1q1brd8oeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
